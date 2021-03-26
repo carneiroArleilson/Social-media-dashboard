@@ -1,0 +1,24 @@
+h1, p{
+  font-family: inter;
+}
+h1, h2{
+  color: white;
+}
+h1{
+  font-size: 2.5rem;
+}
+h2{
+  font-size: 1.5rem;
+}
+p{
+  color: #7E84A9;
+}
+header{
+background-color:hsl(232, 19%, 15%);
+/* background-image:linear-gradient(to right, white, purple, yellow); */
+margin: 0px;
+padding: 50px 200px 200px;
+}
+ng-toggle{
+  margin-left: 20px;
+}
